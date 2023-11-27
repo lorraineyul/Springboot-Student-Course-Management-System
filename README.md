@@ -1,5 +1,6 @@
 # Student Management System
 A student management system to store student information
+Link: http://studentcoursemanagement-env.eba-6akkzriu.eu-west-1.elasticbeanstalk.com/
 
 ## Tech Stack
 - Java
@@ -11,6 +12,9 @@ A student management system to store student information
 - Postgres
 - AWS
 
-
 ## Features
 - CRUD
+
+## Learning Notes
+- Notes
+- Debug

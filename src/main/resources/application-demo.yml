@@ -1,16 +1,11 @@
-spring:
-  profiles:
-    group:
-      dev: local,dev
-
 server:
   port: 5000
 
 app:
   datasource:
-    jdbc-url: jdbc:postgresql://database-studentcoursemanagement1.cw3xcmetl0yh.eu-west-1.rds.amazonaws.com:5433/studentcourse
-    username: lorraineyul
-    password: jiaxuan13882060
+    jdbc-url: jdbc:postgresql://endpoint:5433/studentcourse
+    username:
+    password:
     pool-size: 30
 
 
