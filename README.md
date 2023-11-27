@@ -14,7 +14,3 @@ Link: http://studentcoursemanagement-env.eba-6akkzriu.eu-west-1.elasticbeanstalk
 
 ## Features
 - CRUD
-
-## Learning Notes
-- Notes
-- Debug
